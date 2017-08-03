@@ -1,5 +1,5 @@
 ## FABLAB REVOLUTION
-       Its always intersting to learn something new.Especially something that is revolutionary and has a promising future.
+Its always intersting to learn something new.Especially something that is revolutionary and has a promising future.
 You can use the [editor on GitHub](https://github.com/Anurudhg/Anurudhg.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
