@@ -1,37 +1,18 @@
-## FABLAB REVOLUTION
-Its always intersting to learn something new.Especially something that is revolutionary and has a promising future.
-You can use the [editor on GitHub](https://github.com/Anurudhg/Anurudhg.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+# FABLAB REVOLUTION
+Its always interesting to learn something new.Especially something that is revolutionary and has a promising future.
+The crash course in [FAB](http://www.fabfoundation.org/)LAB would guide anyone into fascinating world of creativity.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[MESCEFABLAB](https://www.fablabs.io/labs/mesce) is one of the 20 mini fablab in Kerala where the students have the oppurtunity to explore FAB world.
 
-### Markdown
+## ABOUT ME
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+ Graduating in B.Tech Mechanical engineering at [M.E.S College of Engineering](http://www.mesce.ac.in/).Intrested in Designing and Manufacturing and completed crash course on basics of AUTOCAD.Planning to do M.S in Automotive Engineering.Likes to travel a lot and have a good love for music and arts([Kolkali](https://www.youtube.com/watch?v=jP5lA3Zhj40)).Native place is Kalpetta of Wayanad district.
 
 ```markdown
-Syntax highlighted code block
+DETAILS TO GET IN CONTACT WITH ME;
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+ EMAIL:anurudh0007@gmail.com
+ FACEBOOK ID:Anurudh Gopalakrishnan
+ TELEGRAM:Anurudh G
+ MOBILE:+919645195719
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Anurudhg/Anurudhg.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
