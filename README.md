@@ -5,7 +5,8 @@ The crash course in [FAB](http://www.fabfoundation.org/)LAB would guide anyone i
 [MESCEFABLAB](https://www.fablabs.io/labs/mesce) is one of the 20 mini fablab in Kerala where the students have the oppurtunity to explore FAB world.
 
 ## ABOUT ME
-meet me in fb <a href="https://www.facebook.com/AnurudhG"> <img src="anurudh.jpg" height="600" width"800"></a>
+
+<img src="anurudh.jpg" height="600" width"800">
  Graduating in B.Tech Mechanical engineering at [M.E.S College of Engineering](http://www.mesce.ac.in/).Intrested in Designing and Manufacturing and completed crash course on basics of AUTOCAD.Planning to do M.S in Automotive Engineering.Likes to travel a lot and have a good love for music and arts([Kolkali](https://www.youtube.com/watch?v=jP5lA3Zhj40)).Native place is Kalpetta of Wayanad district.
 
 ```markdown
