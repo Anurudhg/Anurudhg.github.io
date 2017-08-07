@@ -44,7 +44,7 @@ Our trainer Mr.Jaseel was successful in explaining the main theme of the entire 
 
 ### Precision cutter 
                
-<img src="precision.jpg" height="100" width="300">     
+<img src="precision.jpg" height="300" width="500">     
      
  A CNC Engraving machine is the art of cutting or carving grooves  
  or characters into a surface. The more common forms are hand eng
@@ -79,6 +79,8 @@ can however engrave them
  
 ### Milling machine
 
+<img src="milling-machine.jpg" height="300" width="500">
+
 The milling machines are also known as the multi-tasking machines 
 (MTMs) which are multi-purpose machines capable of milling and tu
 rning the materials as well. The milling machine has got the cutt
@@ -98,6 +100,8 @@ al object
 
 ### Moulding machine
 
+<img src="moulding.jpg" height="300" width="500">
+
 Injection molding machine molds can be fastened in either a horizo
 ntal or vertical position. The majority of machines are horizontal
 ly oriented, but vertical machines are used in some niche applicat
@@ -109,6 +113,8 @@ he platens); however hydraulic clamps (chocks are used to hold the
 tool in place) and magnetic clamps are also used
 
 ### Mini furnaces
+
+<img src="minifurnace.jpg" height="300" width="500">
 
 Furnaces feature rugged ceramic tops and bottoms with durable alum
 inum alloy sides. As a result, they are 20 to 25 percent lighter t
