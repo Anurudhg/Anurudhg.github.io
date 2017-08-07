@@ -22,7 +22,7 @@ DETAILS TO GET IN CONTACT WITH ME;
 ## FAB LAB TRAINING (2ND AUG 2017-)
                 Being the part of FABLAB training was a great oppurtunity.No one ever  would miss that.The central theme of FABLAB is 'HOW TO MAKE ALMOST ANYTHING'.
                  
-   ## DAY ONE (GLIMPSES OF REALISATION)
+## DAY ONE (GLIMPSES OF REALISATION)
    
 Our trainer Mr.Jaseel was successful in explaining the main theme of the entire programme.He made as aware about the future scopes of FAB and was able to convince as how the same can influence the future world.
 ### fablab
