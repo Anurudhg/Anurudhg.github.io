@@ -44,8 +44,7 @@ Our trainer Mr.Jaseel was successful in explaining the main theme of the entire 
 
 ### Precision cutter 
                
-    
-<img src="precision.jpg" height="100" width="300>     
+<img src="precision.jpg" height="100" width="300">     
      
  A CNC Engraving machine is the art of cutting or carving grooves  
  or characters into a surface. The more common forms are hand eng
