@@ -26,8 +26,10 @@ DETAILS TO GET IN CONTACT WITH ME;
    
 Our trainer Mr.Jaseel was successful in explaining the main theme of the entire programme.He made as aware about the future scopes of FAB and was able to convince as how the same can influence the future world.
 ### fablab
-    To put it very simply, fab lab is a mini factory of sorts where anyone can work on an idea and build a prototype, which would then help to figure out potential market for the product.It has wide variety of machines to make thing possible as we wish.Anything can be rebuild with a short span without much complicated manufacturing procedures.
-    ```markdown
+   
+ To put it very simply, fab lab is a mini factory of sorts where anyone can work on an idea and build a prototype, which would then help to figure out potential market for the product.It has wide variety of machines to make thing possible as we wish.Anything can be rebuild with a short span without much complicated manufacturing procedures.
+   
+```markdown
    $ Precision cutter
    $ Carving machine
    $ Drillers
@@ -36,7 +38,7 @@ Our trainer Mr.Jaseel was successful in explaining the main theme of the entire 
    $ 3D printers 
    $ Moulding machines
    $ Mini furnaces
-    ```
+```
     
                                                    The above mentioned are some of the important machines and tools used for making your come true into its physical format.While fab labs have yet to compete with mass production and its associated economies of scale in fabricating widely distributed products, they have already shown the potential to empower individuals to create smart devices for themselves. These devices can be tailored to local or personal needs in ways that are not practical or economical using mass production.
 
