@@ -114,7 +114,7 @@ tool in place) and magnetic clamps are also used
 
 ### Mini furnaces
 
-<img src="minifurnace.jpg" height="300" width="500">
+<img src="mini furnace.jpg" height="300" width="500">
 
 Furnaces feature rugged ceramic tops and bottoms with durable alum
 inum alloy sides. As a result, they are 20 to 25 percent lighter t
