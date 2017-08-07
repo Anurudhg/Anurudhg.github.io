@@ -43,9 +43,9 @@ Our trainer Mr.Jaseel was successful in explaining the main theme of the entire 
                                                    The above mentioned are some of the important machines and tools used for making your come true into its physical format.While fab labs have yet to compete with mass production and its associated economies of scale in fabricating widely distributed products, they have already shown the potential to empower individuals to create smart devices for themselves. These devices can be tailored to local or personal needs in ways that are not practical or economical using mass production.
 
 ### Precision cutter 
+                                                                            <img src="precision.jpg" height="100" width="300>     
      
-     
- A CNC Engraving machine is the art of cutting or carving grooves     
+ A CNC Engraving machine is the art of cutting or carving grooves  
  or characters into a surface. The more common forms are hand eng
  raving, mechanical engraving (pantographs, computer engravers, 
  CNC engraving, etc.) and a variety of photographic and chemical
