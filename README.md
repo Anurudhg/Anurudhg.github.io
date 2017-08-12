@@ -127,3 +127,77 @@ an shell furnaces and aluminum frame furnaces. These furnaces ha
 ve a strong, durable construction for long furnace life. They al
 so operate at frequencies from 3,000 to 10,000 hertz  with maxim
 um power utilization
+
+## DAY TWO( DOCUMENTATION AND SOFTWARE BASICS)
+      
+ Came to know about some of the basic documentation requirements:
+                     $ A self owned webpage/site
+                     $ HTML coding
+                     $ Tips for proper handling
+ Although my trade is Mechanical now I am to able to handle my own
+ web page.Learned about softwares that is necessary for fablab act
+ iviies such as:
+                     $ Eagle
+                     $ Cura
+                     $ Autocad
+                     $ Solidworks
+                     $ Rhinoceros
+                     $ Shopbot sofware
+                     $ Cutstudio(3D)
+                     $ Sketchup(2D)
+    ### TUTORIAL FOR STARTING A WEB PAGE(Example:GITHUB)
+              
+ $ Go to [GITHUB](https://github.com/)
+ $ Sign up up by providing necessary details
+ $ Then Sign in into the account
+ $ Select 'START A PROJECT' to create new repository
+ $ Give a suitable repository name
+ $ Select 'CREATE REPOSITORY'
+                          You have your Hithub page.Explore!!!!
+    ### HTML CODING
+    
+ We need to know some basic HTML coding to maintain a page.Following
+ is the step to code the page in previously created account on GITHUB:
+ $ Login into GITHUB account
+ $ Select your ID on right bottom corner
+ $ Now select 'CODE' on the menu
+ $ Select your already created project, as mentioned in above section
+ $ Click on the edit button on the panel on right side(PEN symbol)
+ $ The coding page appears. Code it according to the need.
+       For those who are new to coding.A model coding page na
+       med 'README.md' is available on 'CODE' page.This can ut 
+       ilised to learn coding.
+$ After coding click 'COMMIT CHANGES'.Check the page for the updates.
+       Also visit [w3schools.com](https://www.w3schools.com/html/html_basic.asp) to learn some basic coding.
+       
+## SOFTWARE TOOLS FOR FABLAB
+
+### EAGLE
+
+Eagle Software ascertains itself as a paramount institution in provid
+ing software products and solutions for Health Care, Micro-Finance, 
+Insurance and Immigration. We develop mobile phone games, online lott
+ery applications and deliver value added services for mobile phone ga
+mes. We deliver end-to-end solutions for web and desktop applications
+based on Smart Card / RFID Solutionstechnology.
+Download [EAGLE](https://www.autodesk.com/products/eagle/free-download)
+ 
+### CURA
+
+Cura creates a seamless integration between hardware, software and mate
+rials for the best 3D printing experience around.
+Novices can start printing right away and experts are able to customize
+200 settings to achieve the best results for their models
+Optimized profiles for Ultimaker materials
+Supported by a global network of Ultimaker certified service partners
+Print multiple objects at once with different settings for each object
+Cura supports STL, 3MF and OBJ file formats
+It’s open source and completely free
+Optimized for dual extrusion printing with Ultimaker 3
+Download [CURA](http://en.freedownloadmanager.org/Windows-PC/Cura-FREE.html)
+### AUTOCAD
+
+
+Download [Autocad](http://en.freedownloadmanager.org/Windows-PC/Cura-FREE.html)
+ 
+ 
