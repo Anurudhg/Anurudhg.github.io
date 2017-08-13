@@ -154,7 +154,7 @@ um power utilization
       
  ### TUTORIAL FOR STARTING A WEB PAGE(Example:GITHUB)
 ```markdown             
- $ Go to [GITHUB](https://github.com/)
+ $ Go to GITHUB
  $ Sign up up by providing necessary details
  $ Then Sign in into the account
  $ Select 'START A PROJECT' to create new repository
@@ -177,7 +177,7 @@ $ The coding page appears. Code it according to the need.
        med 'README.md' is available on 'CODE' page.This can ut 
        ilised to learn coding.
 $ After coding click 'COMMIT CHANGES'.Check the page for the updates.
-       Also visit [w3schools.com](https://www.w3schools.com/html/html_basic.asp) to learn some basic coding.
+       Also visit w3schools.com to learn some basic coding.
 ```       
        
 ## SOFTWARE TOOLS FOR FABLAB
@@ -207,7 +207,48 @@ Optimized for dual extrusion printing with Ultimaker 3
 Download [CURA](http://en.freedownloadmanager.org/Windows-PC/Cura-FREE.html)
 ### AUTOCAD
 
-
+AutoCAD is a commercial computer-aided design (CAD) and drafting software
+application. Developed and marketed by Autodesk,[1] AutoCAD was first rel
+eased in December 1982 as a desktop app running on microcomputers with in
+ternal graphics controllers.[2] Prior to the introduction of AutoCAD, most
+commercial CAD programs ran on mainframe computers or minicomputers, with
+each CAD operator (user) working at a separate graphics terminal.[3] Since
+2010, AutoCAD was released as a mobile- and web app as well, marketed as 
+AutoCAD 360.
 Download [Autocad](http://en.freedownloadmanager.org/Windows-PC/Cura-FREE.html)
+### SOLIDWORKS
  
- 
+SOLIDWORKS solutions cover all aspects of your product development process
+with a seamless, integrated workflow—design, verification, sustainable des
+ign, communication and data management. The intuitive design interface and
+integrated software work together and give you the freedom to focus on inn
+ovation, thus giving you the possibility to span multiple disciplines with
+ease.
+Download [SOLIDWORKS](http://www.solidworks.in/sw/support/downloads.htm)
+### RHINOCEROS
+
+Rhinoceros, also known as Rhino or Rhino3D, is a 3D CAD modeling software
+package that enables you to accurately model your designs ready for rende
+ring, animation, drafting, engineering, analysis, and manufacturing. Rhino
+is a free-form NURBS surface modeler. With Rhino, you can create, edit, an
+alyze, and translate NURBS curves, surfaces, and solids in Windows or Mac 
+environments. There are no limitations on complexity, degree, or size of 
+the model you design.
+Download [RHINOCEROS](https://www.rhino3d.com/download)
+### CUTSTUDIO 
+
+Easy Cut Studio is the industry's premiere sign making and vinyl cutting sof
+tware for Windows that allows you to cut any TrueType font, any SVG image a
+nd any design you want using an electronic cutting machine ( vinyl cutter a
+nd cutting plotter). Works with your installed TrueType and OpenType, and Di
+ngbat/Wingding fonts. This viny cutting software can import various file fo
+rmats but also provides a full set of drawing and editing tools to create yo
+ur own designs for cutting.
+Download [CUTSTUDIO](http://filehippo.com/download_easy-cut-studio/)
+
+## DAY THREE(3D PRINTING)
+
+
+
+
+
