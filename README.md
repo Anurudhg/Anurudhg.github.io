@@ -132,13 +132,16 @@ um power utilization
 
       
  Came to know about some of the basic documentation requirements:
+```markdown
    $ A self owned webpage/site
    $ HTML coding
    $ Tips for proper handling
+```
    
  Although my trade is Mechanical now I am to able to handle my own
  web page.Learned about softwares that is necessary for fablab act
  iviies such as:
+```markdown
  $ Eagle
  $ Cura
  $ Autocad
@@ -147,32 +150,35 @@ um power utilization
  $ Shopbot sofware
  $ Cutstudio(3D)
  $ Sketchup(2D)
-   
-   
+```
+      
  ### TUTORIAL FOR STARTING A WEB PAGE(Example:GITHUB)
-              
+```markdown             
  $ Go to [GITHUB](https://github.com/)
  $ Sign up up by providing necessary details
  $ Then Sign in into the account
  $ Select 'START A PROJECT' to create new repository
  $ Give a suitable repository name
  $ Select 'CREATE REPOSITORY'
+```
                           You have your Hithub page.Explore!!!!
-    ### HTML CODING
+ ### HTML CODING
     
  We need to know some basic HTML coding to maintain a page.Following
  is the step to code the page in previously created account on GITHUB:
- $ Login into GITHUB account
- $ Select your ID on right bottom corner
- $ Now select 'CODE' on the menu
- $ Select your already created project, as mentioned in above section
- $ Click on the edit button on the panel on right side(PEN symbol)
- $ The coding page appears. Code it according to the need.
+```markdown
+$ Login into GITHUB account
+$ Select your ID on right bottom corner
+$ Now select 'CODE' on the menu
+$ Select your already created project, as mentioned in above section
+$ Click on the edit button on the panel on right side(PEN symbol)
+$ The coding page appears. Code it according to the need.
        For those who are new to coding.A model coding page na
        med 'README.md' is available on 'CODE' page.This can ut 
        ilised to learn coding.
 $ After coding click 'COMMIT CHANGES'.Check the page for the updates.
        Also visit [w3schools.com](https://www.w3schools.com/html/html_basic.asp) to learn some basic coding.
+```       
        
 ## SOFTWARE TOOLS FOR FABLAB
 
