@@ -129,23 +129,27 @@ so operate at frequencies from 3,000 to 10,000 hertz  with maxim
 um power utilization
 
 ## DAY TWO( DOCUMENTATION AND SOFTWARE BASICS)
+
       
  Came to know about some of the basic documentation requirements:
-                     $ A self owned webpage/site
-                     $ HTML coding
-                     $ Tips for proper handling
+   $ A self owned webpage/site
+   $ HTML coding
+   $ Tips for proper handling
+   
  Although my trade is Mechanical now I am to able to handle my own
  web page.Learned about softwares that is necessary for fablab act
  iviies such as:
-                     $ Eagle
-                     $ Cura
-                     $ Autocad
-                     $ Solidworks
-                     $ Rhinoceros
-                     $ Shopbot sofware
-                     $ Cutstudio(3D)
-                     $ Sketchup(2D)
-    ### TUTORIAL FOR STARTING A WEB PAGE(Example:GITHUB)
+ $ Eagle
+ $ Cura
+ $ Autocad
+ $ Solidworks
+ $ Rhinoceros
+ $ Shopbot sofware
+ $ Cutstudio(3D)
+ $ Sketchup(2D)
+   
+   
+ ### TUTORIAL FOR STARTING A WEB PAGE(Example:GITHUB)
               
  $ Go to [GITHUB](https://github.com/)
  $ Sign up up by providing necessary details
