@@ -161,8 +161,9 @@ um power utilization
  $ Give a suitable repository name
  $ Select 'CREATE REPOSITORY'
 ```
-                          You have your Hithub page.Explore!!!!
- ### HTML CODING
+ You have your Hithub page.Explore!!!!
+  
+### HTML CODING
     
  We need to know some basic HTML coding to maintain a page.Following
  is the step to code the page in previously created account on GITHUB:
@@ -247,8 +248,33 @@ ur own designs for cutting.
 Download [CUTSTUDIO](http://filehippo.com/download_easy-cut-studio/)
 
 ## DAY THREE(3D PRINTING)
+ Designed a small scaled 3d solid model that is about 5x5x5mm dimension.And 3D
+ printed it in [ULTIMAKER](https://en.wikipedia.org/wiki/Ultimaker).
+### DESIGNING IN SOLIDWORKS
+     
+```markdown
+$Open new file by selecting 'NEW' from 'FILE'on menubar.
+$Select 'PART' from the pop-up window.(As we are designing a small part)
+'Assembly' option is used to combine parts
+$Select the plane to draw solid from left side panel
+$Click on 'SKETCH' on mid left corner.
+$Using the suitable drawing tools draw 2D model of the required solid shape.
+For example for a cube.
+$Then select'EXTRUDE BOSS' option on same mid left corner.
+$The extrude features dialogue box appears.
+      Choose direction of projection/extrusion by clicking 'DOUBLE ARROW' but
+      ton. 
+      Select 'BLIND' from the drop-down selection.
+      Enter dimension of extrusion (Depth).
+$Doble click on 'GREEN TICK MARK' to complete extrude.
+$To cut a shaped hole do as the same steps of extrude.
+      Instead of 'EXTRUDE BOSS' select 'EXTRUDE CUT'
+      Enter dimension of cut(Depth)
+   Similarly design a random solid shape as the wish.
+$Select 'SAVE' from 'FILE' menU
+```
+### PRINTING IN ULTIMAKER
 
-
-
-
+$ 
+      
 
