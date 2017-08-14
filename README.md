@@ -140,7 +140,7 @@ um power utilization
    
  Although my trade is Mechanical now I am to able to handle my own
  web page.Learned about softwares that is necessary for fablab act
- iviies such as:
+ ivties such as:
 ```markdown
  $ Eagle
  $ Cura
@@ -256,10 +256,19 @@ Download [CUTSTUDIO](http://filehippo.com/download_easy-cut-studio/)
 $Open new file by selecting 'NEW' from 'FILE'on menubar.
 $Select 'PART' from the pop-up window.(As we are designing a small part)
 'Assembly' option is used to combine parts
+```
+
+```markdown
 $Select the plane to draw solid from left side panel
+```
+
+```markdown
 $Click on 'SKETCH' on mid left corner.
 $Using the suitable drawing tools draw 2D model of the required solid shape.
 For example for a cube.
+```
+
+```markdown
 $Then select'EXTRUDE BOSS' option on same mid left corner.
 $The extrude features dialogue box appears.
       Choose direction of projection/extrusion by clicking 'DOUBLE ARROW' but
@@ -267,9 +276,15 @@ $The extrude features dialogue box appears.
       Select 'BLIND' from the drop-down selection.
       Enter dimension of extrusion (Depth).
 $Doble click on 'GREEN TICK MARK' to complete extrude.
+```
+
+```markdown
 $To cut a shaped hole do as the same steps of extrude.
       Instead of 'EXTRUDE BOSS' select 'EXTRUDE CUT'
       Enter dimension of cut(Depth)
+```
+
+```markdown
    Similarly design a random solid shape as the wish.
 $Select 'SAVE' from 'FILE' menu.Choose extension'STL' to save.
 ```
@@ -280,27 +295,46 @@ designing software open CURA.And follow steps:
 ```markdown
 $Open the designed model from 'FILE'-'OPEN FILE'.Or drag the file into box visible 
 on the CURA window.
+```
+
+```markdown
 $Choose 'NOZZLE'(.6mm,recomended)
         'MATERAIL'(PLA-plastic,recomended)
         'PROFILE'(FINE,recomended)
         'INFILL'(20%,recomended)
 $Tick on 'GENERATE SUPPORT',if there is projections on the model designed.
 $Tick on 'BUILD PLATE ADHESION",if the solid is to be printed on a plate.
+```
+
+```markdown
 $Certain orientation options are available on left panel to position the model
 according to the requirement.
 $Select 'LAY FLAT' option to keep the model parallel and flat to machine table.
+```
+
+```markdown
 $Click on 'SAVE FILE' option on right bottom corner.
 $Choose the destination and save the file.
 ```
+
 Now copy the file generated in CURA to the memmory card of the ULTIMAKER machine.
 
 ```markdown
 $Switch on ULTIMAKER
 $Select 'PRINT' from the lower bottom screen using the knob.
+```
+
+```markdown
 $Choose the file that we generated.
 $The estimated time for printing will be displayed on the screen.
 $Choose 'START'.
 ```
 YOUR MODEL WITH SELECTED SPECIFICATION WILL BE PRINTED!!!!!!
+
+### PRINTING MY FIRST 3D PRINTING MODEL
+
+### PRINTING ADHESION PLATE
+
+
       
 
