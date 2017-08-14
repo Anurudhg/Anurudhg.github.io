@@ -270,6 +270,7 @@ $Using the suitable drawing tools draw 2D model of the required solid shape.
 For example for a cube.
 ```
 <img src="cube.jpg" height="500" width="850">
+
 ```markdown
 $Then select'EXTRUDE BOSS' option on same mid left corner.
 $The extrude features dialogue box appears.
@@ -280,12 +281,14 @@ $The extrude features dialogue box appears.
 $Doble click on 'GREEN TICK MARK' to complete extrude.
 ```
 <img src="extrude.jpg" height="500" width="850">
+
 ```markdown
 $To cut a shaped hole do as the same steps of extrude.
       Instead of 'EXTRUDE BOSS' select 'EXTRUDE CUT'
       Enter dimension of cut(Depth)
 ```
 <img src="cut extrude.jpg" height="500" width="850">
+
 ```markdown
    Similarly design a random solid shape as the wish.
 $Select 'SAVE' from 'FILE' menu.Choose extension'STL' to save.
@@ -297,11 +300,13 @@ $Select 'SAVE' from 'FILE' menu.Choose extension'STL' to save.
 
 We use the software 'CURA' for printing in ULTIMAKER.After creating a 3d model an
 designing software open CURA.And follow steps:
+
 ```markdown
 $Open the designed model from 'FILE'-'OPEN FILE'.Or drag the file into box visible 
 on the CURA window.
 ```
 <img src="cura open.jpg" height="500" width="850">
+
 ```markdown
 $Choose 'NOZZLE'(.6mm,recomended)
         'MATERAIL'(PLA-plastic,recomended)
@@ -311,12 +316,14 @@ $Tick on 'GENERATE SUPPORT',if there is projections on the model designed.
 $Tick on 'BUILD PLATE ADHESION",if the solid is to be printed on a plate.
 ```
 <img src="nozzle.jpg" height="500" width="850">
+
 ```markdown
 $Certain orientation options are available on left panel to position the model
 according to the requirement.
 $Select 'LAY FLAT' option to keep the model parallel and flat to machine table.
 ```
 <img src="lay flat.jpg" height="500" width="850">
+
 ```markdown
 $Click on 'SAVE FILE' option on right bottom corner.
 $Choose the destination and save the file.
@@ -324,11 +331,13 @@ $Choose the destination and save the file.
 <img src="cura save.png" height="500" width="850">
 Now copy the file generated in CURA to the memmory card of the ULTIMAKER machine.
 
+
 ```markdown
 $Switch on ULTIMAKER
 $Select 'PRINT' from the lower bottom screen using the knob.
 ```
 <img src="screen.jpg" height="500" width="850">
+
 ```markdown
 $Choose the file that we generated.
 $The estimated time for printing will be displayed on the screen.
@@ -339,9 +348,11 @@ YOUR MODEL WITH SELECTED SPECIFICATION WILL BE PRINTED!!!!!!
 ### PRINTING MY FIRST 3D PRINTING MODEL
 
 <img src="Printing.jpg" height="600" width="800">
+
 ### PRINTING ADHESION PLATE
 
 <img src="Adhesion plate.jpg" height="600" width="800">
+
 ### FINAL PRODUCT
 
 <img src="final.jpg" height="600" width="800">
