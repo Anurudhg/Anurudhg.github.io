@@ -151,8 +151,8 @@ um power utilization
  $ Cutstudio(3D)
  $ Sketchup(2D)
 ```
-      
- ### TUTORIAL FOR STARTING A WEB PAGE(Example:GITHUB)
+###  TUTORIAL FOR STARTING A WEB PAGE(Example:GITHUB)
+
 ```markdown             
  $ Go to GITHUB
  $ Sign up up by providing necessary details
@@ -271,10 +271,36 @@ $To cut a shaped hole do as the same steps of extrude.
       Instead of 'EXTRUDE BOSS' select 'EXTRUDE CUT'
       Enter dimension of cut(Depth)
    Similarly design a random solid shape as the wish.
-$Select 'SAVE' from 'FILE' menU
+$Select 'SAVE' from 'FILE' menu.Choose extension'STL' to save.
 ```
 ### PRINTING IN ULTIMAKER
 
-$ 
+We use the software 'CURA' for printing in ULTIMAKER.After creating a 3d model an
+designing software open CURA.And follow steps:
+```markdown
+$Open the designed model from 'FILE'-'OPEN FILE'.Or drag the file into box visible 
+on the CURA window.
+$Choose 'NOZZLE'(.6mm,recomended)
+        'MATERAIL'(PLA-plastic,recomended)
+        'PROFILE'(FINE,recomended)
+        'INFILL'(20%,recomended)
+$Tick on 'GENERATE SUPPORT',if there is projections on the model designed.
+$Tick on 'BUILD PLATE ADHESION",if the solid is to be printed on a plate.
+$Certain orientation options are available on left panel to position the model
+according to the requirement.
+$Select 'LAY FLAT' option to keep the model parallel and flat to machine table.
+$Click on 'SAVE FILE' option on right bottom corner.
+$Choose the destination and save the file.
+```
+Now copy the file generated in CURA to the memmory card of the ULTIMAKER machine.
+
+```markdown
+$Switch on ULTIMAKER
+$Select 'PRINT' from the lower bottom screen using the knob.
+$Choose the file that we generated.
+$The estimated time for printing will be displayed on the screen.
+$Choose 'START'.
+```
+YOUR MODEL WITH SELECTED SPECIFICATION WILL BE PRINTED!!!!!!
       
 
