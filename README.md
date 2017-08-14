@@ -296,6 +296,7 @@ $Select 'SAVE' from 'FILE' menu.Choose extension'STL' to save.
 <img src="circle extrude.jpg" height="500" width="850">
 <img src="heaxagon extrude.jpg" height="500" width="850">
 <img src="final model.jpg" height="500" width="850">
+
 ### PRINTING IN ULTIMAKER
 
 We use the software 'CURA' for printing in ULTIMAKER.After creating a 3d model an
