@@ -258,10 +258,12 @@ $Select 'PART' from the pop-up window.(As we are designing a small part)
 'Assembly' option is used to combine parts
 ```
 <img src="part.jpg" height="500" width="850">
+
 ```markdown
 $Select the plane to draw solid from left side panel
 ```
 <img src="plane.jpg" height="500" width="850">
+
 ```markdown
 $Click on 'SKETCH' on mid left corner.
 $Using the suitable drawing tools draw 2D model of the required solid shape.
