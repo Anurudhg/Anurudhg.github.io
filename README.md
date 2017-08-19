@@ -377,32 +377,68 @@ EITHER you can design your file in any of the softwares like:
          Solidworks etc.....
 OR transform a photo file into a design
 
-```markdown
 $First download or select the required image.
 $Open it in any photo editor software like Photoshop,Illustrator,cor
 al draw etc....
         [PICASA 3]
 $Select click on 'IMAGE PROCESSING' and select 'NEON'
 You get the outline.
+
+
+
 $Delete the original image
 $Adjust the height and width according to the wish
 $Press 'Ctrl+P' or choose 'PRINT' from 'FILE' menu
 $Select the VINLY printer from print setup
 
+
+
+          You can also enter some text and print.
+
 ### PRINTING ON VINLY CUTTER OR PRINTER
 
 $Power on the printer
+
+
+
 $Release the sheet holder and put in the sheet
 $Adjust the lenght of work changing the position of limiters
+Always keep limiter below the white markers
 $Now engage the sheet holder
+
+
+
 $Select 'ROLL' - working on entire roll
-        'PIECE'- working on small piece   and press 'ENTER' button
+        'PIECE'- working on small piece from the screen  and press 
+ 'ENTER' button
+ 
+ 
+ 
 $Now set the point to start the work by using the navigation button
 on the machine.
 $Long press'ORIGIN' button to set the origin
+
+
+
 $Now click 'PRINT' on the system
+
+
+
 $Release the sheet holder after printing and cut out the required port
 ion from the sheet
+$Now stick a masking sheet over the sticker
+
+
+
+$After removing the masking sheet the required portion to be pasted wi
+ll hold to the mask
+
+
+
+$Then stick mask sheet on required place and remove the mask sheet
+
+
+
 
 ### DESIGNING FOR LASER PRINTER
 
@@ -415,7 +451,7 @@ $Use any softwares like:Paint
 $Save it in DXF format in case of Solidworks
 &Open it in RHINO and adjust the size or dimension ratio if required
 $Then save as PDF format and print
-$**** Remember the laser will cut out through the drawing you designed
+$*** Remember the laser will cut out through the drawing you designed
 
 If you want to just engrave something on surface
 $Choose any suitable black and white photo (if not convert using any photo
