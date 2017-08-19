@@ -358,7 +358,98 @@ YOUR MODEL WITH SELECTED SPECIFICATION WILL BE PRINTED!!!!!!
 
 <img src="final.jpg" height="600" width="800">
 
+## DAY FOUR(VINLY CUTTING)
+    
+ A vinyl cutter is a type of computer-controlled machine. Small
+ vinyl cutters look like computer printers. The computer contro
+ ls the movement of a sharp blade. This blade is used to cut out
+ shapes and letters from sheets of thin self-adhesive plastic 
+ (vinyl).We can design and print various stickers according to 
+ our need.It is a sophesticated system with high range of prec
+ ision and provide sgood print quality.It too need any input 
+ design for furnishing the product.
+ 
+ ### DESIGNING FOR VINLY CUTTING
+ 
+EITHER you can design your file in any of the softwares like:
+         Rhino
+         Autocad
+         Solidworks etc.....
+OR transform a photo file into a design
 
+```markdown
+$First download or select the required image.
+$Open it in any photo editor software like Photoshop,Illustrator,cor
+al draw etc....
+        [PICASA 3]
+$Select click on 'IMAGE PROCESSING' and select 'NEON'
+You get the outline.
+$Delete the original image
+$Adjust the height and width according to the wish
+$Press 'Ctrl+P' or choose 'PRINT' from 'FILE' menu
+$Select the VINLY printer from print setup
 
-      
+### PRINTING ON VINLY CUTTER OR PRINTER
 
+$Power on the printer
+$Release the sheet holder and put in the sheet
+$Adjust the lenght of work changing the position of limiters
+$Now engage the sheet holder
+$Select 'ROLL' - working on entire roll
+        'PIECE'- working on small piece   and press 'ENTER' button
+$Now set the point to start the work by using the navigation button
+on the machine.
+$Long press'ORIGIN' button to set the origin
+$Now click 'PRINT' on the system
+$Release the sheet holder after printing and cut out the required port
+ion from the sheet
+
+### DESIGNING FOR LASER PRINTER
+
+If you want to cut out model
+$Design a 2D model for the laser printing
+$Use any softwares like:Paint
+                        Solidworks
+                        Rhino
+                        Auotocad etc... which give give vector output
+$Save it in DXF format in case of Solidworks
+&Open it in RHINO and adjust the size or dimension ratio if required
+$Then save as PDF format and print
+$**** Remember the laser will cut out through the drawing you designed
+
+If you want to just engrave something on surface
+$Choose any suitable black and white photo (if not convert using any photo
+editor)
+$Save it in PDF format
+$Select 'PRINT' from 'FILE' menu or print directly from the editor
+
+$In print setup select the laser printer
+$When the print setup dialogue box of laser printer  is displayed
+    Choose 'RASTOR'-FOR ENGRAVING
+           'VECTOR'-FOR CUTTING
+    Select the power and cutting speed
+            RASTOR- speed:30-40
+                                }changes according to material[trail&
+                                  error method can be adopted]                             
+                    power:20-40
+            VECTOR- speed:30-50
+                                }changes according to material[trail
+                                  error method can be adopted]  
+                    power:70-80
+ $I adopted the above mentioned vector specifications on cutting on acrylic sheet
+ $Now click the 'PRINT' button
+ $Check the screen of the laser printer "JOB:YOUR FILE NAME" appeares
+ $If already a job is appearing click 'BIN' button to delete
+ $Click 'RESET' to set the point of starting work
+ $Press button no 9 to display the laser pointer position
+ $Now press 'X/Y OFF' to free the robotic arm and to manually set the starting poi
+ nt.The co-ordinates appears on the screen
+ $OR use navigational buttons to set the position
+ $Click 'GO' button to mimic the original cutting path,it is used to confirm the 
+ printing size
+ $Switch on the compressor to exhaust the fume produced during laser cutting in
+ the machine
+ $Now close the lid and press 'GO' to start the work
+ $OPEN THE LID ONLY AFTER 5-10 MINS after the work so that all the fumes are exhau
+ sted.INHALING THE SAME IS INJURIOUS TO HEALTH 
+          
