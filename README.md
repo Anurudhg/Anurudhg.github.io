@@ -399,14 +399,14 @@ $Select the VINLY printer from print setup
 
 $Power on the printer
 
-<img src="vinly on.jpg" height="600" width="800">
+<img src="vinly on.png" height="600" width="800">
 
 $Release the sheet holder and put in the sheet
 $Adjust the lenght of work changing the position of limiters
 Always keep limiter below the white markers
 $Now engage the sheet holder
 
-<img src="vinly print.png" height="600" width="800">
+<img src="vinly printer.png" height="600" width="800">
 
 $Select 'ROLL' - working on entire roll
         'PIECE'- working on small piece from the screen  and press 
@@ -415,7 +415,7 @@ $Now set the point to start the work by using the navigation button
 on the machine.
 $Long press'ORIGIN' button to set the origin
 
-<img src="vinl navigation.png" height="600" width="800">
+<img src="vinly navigation.png" height="600" width="800">
 
 $Now click 'PRINT' on the system
 
