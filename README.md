@@ -520,7 +520,7 @@ $When the print setup dialogue box of laser printer  is displayed
                                 }changes according to material[trail
                                   error method can be adopted]  
                     power:70-80%
- $I adopted the above mentioned vector specifications on cutting on ACRYLIC sheet
+ $I adopted the above mentioned vector specifications for cutting on ACRYLIC sheet
  $Now click the 'OK' button
  ``` 
 <img src="print setup.png" height="600" width="800"> 
