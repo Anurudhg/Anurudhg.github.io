@@ -477,9 +477,7 @@ $Save it in DXF format in case of Solidworks
 $Then save as PDF format and print
 ``` 
 <img src="dxf.jpg" height="600" width="800">
-
-<img src="rino.jpg height="600" width="800">
-                                           
+<img src="rino.jpg" height="600" width="800">
 <img src="pdf.jpg" height="600" width="800">
                                            
 ### $$$ Remember the laser will cut out through the drawing you designed                                          
