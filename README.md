@@ -399,45 +399,48 @@ $Select the VINLY printer from print setup
 
 $Power on the printer
 
-
+<img src="vinly on.jpg" height="600" width="800">
 
 $Release the sheet holder and put in the sheet
 $Adjust the lenght of work changing the position of limiters
 Always keep limiter below the white markers
 $Now engage the sheet holder
 
-
+<img src="vinly print.png" height="600" width="800">
 
 $Select 'ROLL' - working on entire roll
         'PIECE'- working on small piece from the screen  and press 
  'ENTER' button
- 
- 
- 
 $Now set the point to start the work by using the navigation button
 on the machine.
 $Long press'ORIGIN' button to set the origin
 
-
+<img src="vinl navigation.png" height="600" width="800">
 
 $Now click 'PRINT' on the system
 
-
+<img src="stark print.png" height="600" width="800">
 
 $Release the sheet holder after printing and cut out the required port
 ion from the sheet
 $Now stick a masking sheet over the sticker
 
-
+<img src="vinly mask.jpg" height="600" width="800">
 
 $After removing the masking sheet the required portion to be pasted wi
 ll hold to the mask
+BEFORE
 
+<img src="vinly masking.jpg" height="600" width="800">
 
+AFTER
+
+<img src="vinly after.jpg" height="600" width="800">
 
 $Then stick mask sheet on required place and remove the mask sheet
 
-
+<img src="vinly final.jpg" height="600" width="800">
+<img src="vinly text final.jpg" height="600" width="800">
 
 
 ### DESIGNING FOR LASER PRINTER
