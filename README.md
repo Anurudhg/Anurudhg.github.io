@@ -466,16 +466,24 @@ $Use any softwares like:Paint
                         Solidworks
                         Rhino
                         Auotocad etc... which give give vector output
+ 
+<img src="key.jpg" height="600" width="800"> 
+ 
 $Save it in DXF format in case of Solidworks
 &Open it in RHINO and adjust the size or dimension ratio if required
 $Then save as PDF format and print
 $*** Remember the laser will cut out through the drawing you designed
 
+<img src="dxf.jpg" height="600" width="800">
+<img src="rino.jpg height="600" width="800">
+<img src="pdf.jpg" height="600" width="800">
 If you want to just engrave something on surface
 $Choose any suitable black and white photo (if not convert using any photo
 editor)
 $Save it in PDF format
 $Select 'PRINT' from 'FILE' menu or print directly from the editor
+
+<img src="keyprint.jpg" height="600" width="800">
 
 $In print setup select the laser printer
 $When the print setup dialogue box of laser printer  is displayed
@@ -491,9 +499,13 @@ $When the print setup dialogue box of laser printer  is displayed
                                   error method can be adopted]  
                     power:70-80
  $I adopted the above mentioned vector specifications on cutting on acrylic sheet
- $Now click the 'PRINT' button
+ $Now click the 'OK' button
+ 
+<img src="print setup.png" height="600" width="800"> 
+ 
  $Check the screen of the laser printer "JOB:YOUR FILE NAME" appeares
  $If already a job is appearing click 'BIN' button to delete
+ $Also use "SAVE" to save the job into the machine
  $Click 'RESET' to set the point of starting work
  $Press button no 9 to display the laser pointer position
  $Now press 'X/Y OFF' to free the robotic arm and to manually set the starting poi
@@ -501,8 +513,16 @@ $When the print setup dialogue box of laser printer  is displayed
  $OR use navigational buttons to set the position
  $Click 'GO' button to mimic the original cutting path,it is used to confirm the 
  printing size
+ $Press 'STOP' for emergency stopping of work
+ 
+ <img src="screen.jpg" height="600" width="800">
+ 
  $Switch on the compressor to exhaust the fume produced during laser cutting in
  the machine
+ 
+ <img src="start.jpg" height="600" width="800">
+ <img src="on.jpg" height="600" width="800">
+ 
  $Now close the lid and press 'GO' to start the work
  $OPEN THE LID ONLY AFTER 5-10 MINS after the work so that all the fumes are exhau
  sted.INHALING THE SAME IS INJURIOUS TO HEALTH 
