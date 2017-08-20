@@ -490,14 +490,14 @@ $When the print setup dialogue box of laser printer  is displayed
     Choose 'RASTOR'-FOR ENGRAVING
            'VECTOR'-FOR CUTTING
     Select the power and cutting speed
-            RASTOR- speed:30-40
+            RASTOR- speed:30-40%
                                 }changes according to material[trail&
                                   error method can be adopted]                             
-                    power:20-40
-            VECTOR- speed:30-50
+                    power:20-40%
+            VECTOR- speed:30-50%
                                 }changes according to material[trail
                                   error method can be adopted]  
-                    power:70-80
+                    power:70-80%
  $I adopted the above mentioned vector specifications on cutting on acrylic sheet
  $Now click the 'OK' button
  
@@ -526,4 +526,11 @@ $When the print setup dialogue box of laser printer  is displayed
  $Now close the lid and press 'GO' to start the work
  $OPEN THE LID ONLY AFTER 5-10 MINS after the work so that all the fumes are exhau
  sted.INHALING THE SAME IS INJURIOUS TO HEALTH 
-          
+ 
+ ### work under progress
+ 
+ <img src="progress.png" height="600" width="800">
+ 
+ ### final product
+ 
+ <img src="final key.jpg" height="600" width="800">
