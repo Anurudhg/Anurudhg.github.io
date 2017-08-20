@@ -370,7 +370,8 @@ YOUR MODEL WITH SELECTED SPECIFICATION WILL BE PRINTED!!!!!!
  design for furnishing the product.
  
  ### DESIGNING FOR VINLY CUTTING
- 
+
+```markdown
 EITHER you can design your file in any of the softwares like:
          Rhino
          Autocad
@@ -381,19 +382,26 @@ $First download or select the required image.
 $Open it in any photo editor software like Photoshop,Illustrator,cor
 al draw etc....
         [PICASA 3]
+```             
+ <img src="stark image.png" height="600" width="800">
+ 
+ ```markdown
 $Select click on 'IMAGE PROCESSING' and select 'NEON'
 You get the outline.
+``` 
+<img src="outline.png" height="600" width="800">
 
-
-
+```markdown
 $Delete the original image
 $Adjust the height and width according to the wish
 $Press 'Ctrl+P' or choose 'PRINT' from 'FILE' menu
 $Select the VINLY printer from print setup
-
-
+``` 
+<img src="stark print.png" height="600" width="800">
 
           You can also enter some text and print.
+          
+<img src="vinly teaxt.jpg" height="600" width="800">          
 
 ### PRINTING ON VINLY CUTTER OR PRINTER
 
