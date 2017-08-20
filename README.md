@@ -337,7 +337,7 @@ Now copy the file generated in CURA to the memmory card of the ULTIMAKER machine
 $Switch on ULTIMAKER
 $Select 'PRINT' from the lower bottom screen using the knob.
 ```
-<img src="screen.jpg" height="500" width="850">
+<img src="screen2.jpg" height="500" width="850">
 
 ```markdown
 $Choose the file that we generated.
@@ -538,7 +538,7 @@ $When the print setup dialogue box of laser printer  is displayed
  printing size
  $Press 'STOP' for emergency stopping of work
  ``` 
- <img src="screen1.jpg" height="600" width="800">
+ <img src="screen.jpg" height="600" width="800">
  
  ```markdown
  $Switch on the compressor to exhaust the fume produced during laser cutting in
