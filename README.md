@@ -479,8 +479,20 @@ $Then save as PDF format and print
                                            
  ### $*** Remember the laser will cut out through the drawing you designed
          
-I can share one of the failure of the product due to error in the design
-As I designed the almost the same model this way:
+I CAN SHARE AN EXPERIENCE OF FAILURE DUE TO ERROR IN DESIGN
+As I designed the almost the same model key chain this way:
+### FAILED DESIGN
+
+<img src="fail1.jpg" height="600" width="800">
+
+FOR A CONFIRMATION I TESTED ON CARDBOARD PIECE.THEN I GOT THIS:
+### FAILED PRODUCT
+
+<img src="fail.jpg" height="600" width="800">
+
+THE THINGS I WANT TO STAY JUST GOT CUT OFF
+THEN I SWITCHED MY DESIGN AS ABOVE MENTIONED YOU CAN SEE THE DIFFERENCE
+SO DESIGNING ACCORDING TO REQUIREMENT IS REALLY IMPORTANT HERE!!!!!!
 
 If you want to just engrave something on surface
 $Choose any suitable black and white photo (if not convert using any photo
@@ -503,7 +515,7 @@ $When the print setup dialogue box of laser printer  is displayed
                                 }changes according to material[trail
                                   error method can be adopted]  
                     power:70-80%
- $I adopted the above mentioned vector specifications on cutting on acrylic sheet
+ $I adopted the above mentioned vector specifications on cutting on ACRYLIC sheet
  $Now click the 'OK' button
  
 <img src="print setup.png" height="600" width="800"> 
