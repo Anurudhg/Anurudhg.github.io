@@ -401,7 +401,7 @@ $Select the VINLY printer from print setup
 
           You can also enter some text and print.
           
-<img src="vinly teaxt.jpg" height="600" width="800">          
+<img src="vinly text.jpg" height="600" width="800">          
 
 ### PRINTING ON VINLY CUTTER OR PRINTER
 
