@@ -472,11 +472,16 @@ $Use any softwares like:Paint
 $Save it in DXF format in case of Solidworks
 &Open it in RHINO and adjust the size or dimension ratio if required
 $Then save as PDF format and print
-$*** Remember the laser will cut out through the drawing you designed
 
 <img src="dxf.jpg" height="600" width="800">
 <img src="rino.jpg height="600" width="800">
 <img src="pdf.jpg" height="600" width="800">
+                                           
+ ### $*** Remember the laser will cut out through the drawing you designed
+         
+I can share one of the failure of the product due to error in the design
+As I designed the almost the same model this way:
+
 If you want to just engrave something on surface
 $Choose any suitable black and white photo (if not convert using any photo
 editor)
