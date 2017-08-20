@@ -457,22 +457,25 @@ $Then stick mask sheet on required place and remove the mask sheet
 <img src="vinly final.jpg" height="600" width="800">
 <img src="vinly text final.jpg" height="600" width="800">
 
+## DAY FIVE(LASER CUTTING)
 
 ### DESIGNING FOR LASER PRINTER
 
+```markdown
 If you want to cut out model
 $Design a 2D model for the laser printing
 $Use any softwares like:Paint
                         Solidworks
                         Rhino
                         Auotocad etc... which give give vector output
- 
+``` 
 <img src="key.jpg" height="600" width="800"> 
- 
+
+```markdown
 $Save it in DXF format in case of Solidworks
 &Open it in RHINO and adjust the size or dimension ratio if required
 $Then save as PDF format and print
-
+``` 
 <img src="dxf.jpg" height="600" width="800">
 <img src="rino.jpg height="600" width="800">
 <img src="pdf.jpg" height="600" width="800">
@@ -494,14 +497,16 @@ THE THINGS I WANT TO STAY JUST GOT CUT OFF
 THEN I SWITCHED MY DESIGN AS ABOVE MENTIONED YOU CAN SEE THE DIFFERENCE
 SO DESIGNING ACCORDING TO REQUIREMENT IS REALLY IMPORTANT HERE!!!!!!
 
+```markdown                                            
 If you want to just engrave something on surface
 $Choose any suitable black and white photo (if not convert using any photo
 editor)
 $Save it in PDF format
 $Select 'PRINT' from 'FILE' menu or print directly from the editor
-
+``` 
 <img src="keyprint.jpg" height="600" width="800">
 
+```markdown
 $In print setup select the laser printer
 $When the print setup dialogue box of laser printer  is displayed
     Choose 'RASTOR'-FOR ENGRAVING
@@ -517,9 +522,10 @@ $When the print setup dialogue box of laser printer  is displayed
                     power:70-80%
  $I adopted the above mentioned vector specifications on cutting on ACRYLIC sheet
  $Now click the 'OK' button
- 
+ ``` 
 <img src="print setup.png" height="600" width="800"> 
  
+ ```markdown
  $Check the screen of the laser printer "JOB:YOUR FILE NAME" appeares
  $If already a job is appearing click 'BIN' button to delete
  $Also use "SAVE" to save the job into the machine
@@ -531,19 +537,21 @@ $When the print setup dialogue box of laser printer  is displayed
  $Click 'GO' button to mimic the original cutting path,it is used to confirm the 
  printing size
  $Press 'STOP' for emergency stopping of work
- 
+ ``` 
  <img src="screen.jpg" height="600" width="800">
  
+ ```markdown
  $Switch on the compressor to exhaust the fume produced during laser cutting in
  the machine
- 
+ ``` 
  <img src="start.jpg" height="600" width="800">
  <img src="on.jpg" height="600" width="800">
  
+ ```markdown
  $Now close the lid and press 'GO' to start the work
  $OPEN THE LID ONLY AFTER 5-10 MINS after the work so that all the fumes are exhau
  sted.INHALING THE SAME IS INJURIOUS TO HEALTH 
- 
+ ``` 
  ### work under progress
  
  <img src="progress.png" height="600" width="800">
