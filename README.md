@@ -477,10 +477,12 @@ $Save it in DXF format in case of Solidworks
 $Then save as PDF format and print
 ``` 
 <img src="dxf.jpg" height="600" width="800">
+
 <img src="rino.jpg height="600" width="800">
+                                           
 <img src="pdf.jpg" height="600" width="800">
                                            
- ### $*** Remember the laser will cut out through the drawing you designed
+### $$$ Remember the laser will cut out through the drawing you designed                                          
          
 I CAN SHARE AN EXPERIENCE OF FAILURE DUE TO ERROR IN DESIGN
 As I designed the almost the same model key chain this way:
@@ -552,10 +554,10 @@ $When the print setup dialogue box of laser printer  is displayed
  $OPEN THE LID ONLY AFTER 5-10 MINS after the work so that all the fumes are exhau
  sted.INHALING THE SAME IS INJURIOUS TO HEALTH 
  ``` 
- ### work under progress
+### work under progress
  
  <img src="progress.png" height="600" width="800">
  
- ### final product
+### final product
  
  <img src="final key.jpg" height="600" width="800">
