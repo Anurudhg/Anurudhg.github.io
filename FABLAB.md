@@ -364,7 +364,7 @@ YOUR MODEL WITH SELECTED SPECIFICATION WILL BE PRINTED!!!!!!
 <img src="stand2.jpg" height="600" width="800">
 <img src="stand3.jpg" height="600" width="800">
 <img src="stand4.jpg" height="600" width="800">
-
+<img src="design.png" height="600" width="800">
 
 ## DAY FOUR(VINLY CUTTING)
     
