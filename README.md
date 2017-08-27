@@ -358,6 +358,14 @@ YOUR MODEL WITH SELECTED SPECIFICATION WILL BE PRINTED!!!!!!
 
 <img src="final.jpg" height="600" width="800">
 
+### ONE OF MY 3D PRINTED HTC PHONE HOLDER[SELF DESIGNED]
+
+<img src="stand1.jpg" height="600" width="800">
+<img src="stand2.jpg" height="600" width="800">
+<img src="stand3.jpg" height="600" width="800">
+<img src="stand4.jpg" height="600" width="800">
+
+
 ## DAY FOUR(VINLY CUTTING)
     
  A vinyl cutter is a type of computer-controlled machine. Small
