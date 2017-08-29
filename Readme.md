@@ -365,7 +365,11 @@ YOUR MODEL WITH SELECTED SPECIFICATION WILL BE PRINTED!!!!!!
 <img src="stand2.jpg" height="600" width="800">
 <img src="stand3.jpg" height="600" width="800">
 <img src="stand4.jpg" height="600" width="800">
-
+Download design and printing file: [SOLIDWORKS](Anurudhg.github.io/anurudh phone stand.SLDPRT)
+                                   [SOLIDWORKS PART ONE](Anurudhg.github.io/stand 1.SLDPRT)
+                                   [SOLIDWORKS PART TWO](Anurudhg.github.io/Part 2.SLDPRT)
+                                   [PART ONE STL](Anurudhg.github.io/holderpart2.STL)
+.                                  [PART TWO STL](Anurudhg.github.io/holder part1.STL)
 ## DAY FOUR(VINLY CUTTING)
     
  A vinyl cutter is a type of computer-controlled machine. Small
@@ -567,3 +571,5 @@ $When the print setup dialogue box of laser printer  is displayed
 ### final product
  
  <img src="final key.jpg" height="600" width="800">
+ 
+ ### You can download the drawing file [HERE](Anurudhg.github.io/key chain final outline.DXF)
